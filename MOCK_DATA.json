@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "product_name": "Sandwich de Pollo",
+    "category": "sandwich",
+    "description": "Delicioso sandwich de pollo con lechuga y tomate.",
+    "price": 8.99,
+    "calory": 450,
+    "estado": "Stock",
+    "cant_comprado": 45
+  },
+  {
+    "id": 2,
+    "product_name": "Hamburguesa Clásica",
+    "category": "hamburguesa",
+    "description": "Hamburguesa jugosa con carne de res, queso, lechuga y tomate.",
+    "price": 10.99,
+    "calory": 600,
+    "estado": "Sin Stock",
+    "cant_comprado": 32
+  },
+  {
+    "id": 3,
+    "product_name": "Pizza Margarita",
+    "category": "pizza",
+    "description": "Pizza clásica con salsa de tomate, mozzarella y albahaca.",
+    "price": 12.99,
+    "calory": 800,
+    "estado": "Stock",
+    "cant_comprado": 78
+  },
+  {
+    "id": 4,
+    "product_name": "Empanadas de Queso",
+    "category": "empanadas",
+    "description": "Empanadas rellenas de queso fundido.",
+    "price": 7.99,
+    "calory": 400,
+    "estado": "Sin Stock",
+    "cant_comprado": 54
+  },
+  {
+    "id": 5,
+    "product_name": "Sandwich de Pavo",
+    "category": "sandwich",
+    "description": "Sandwich saludable con pechuga de pavo, espinacas y mostaza.",
+    "price": 9.99,
+    "calory": 350,
+    "estado": "Stock",
+    "cant_comprado": 67
+  },
+  {
+    "id": 6,
+    "product_name": "Hamburguesa Vegetariana",
+    "category": "hamburguesa",
+    "description": "Hamburguesa vegetariana con hamburguesa de garbanzos, lechuga y salsa de aguacate.",
+    "price": 11.99,
+    "calory": 500,
+    "estado": "Stock",
+    "cant_comprado": 89
+  },
+  {
+    "id": 7,
+    "product_name": "Pizza Hawaiana",
+    "category": "pizza",
+    "description": "Pizza con jamón, piña y salsa de tomate.",
+    "price": 14.99,
+    "calory": 700,
+    "estado": "Sin Stock",
+    "cant_comprado": 43
+  },
+  {
+    "id": 8,
+    "product_name": "Empanadas de Carne",
+    "category": "empanadas",
+    "description": "Empanadas rellenas de carne sazonada.",
+    "price": 8.99,
+    "calory": 450,
+    "estado": "Stock",
+    "cant_comprado": 76
+  },
+  {
+    "id": 9,
+    "product_name": "Sandwich de Atún",
+    "category": "sandwich",
+    "description": "Sandwich con atún, mayonesa y pepinillos.",
+    "price": 10.99,
+    "calory": 400,
+    "estado": "Sin Stock",
+    "cant_comprado": 98
+  },
+  {
+    "id": 10,
+    "product_name": "Hamburguesa BBQ",
+    "category": "hamburguesa",
+    "description": "Hamburguesa con salsa barbacoa, queso cheddar y cebolla caramelizada.",
+    "price": 13.99,
+    "calory": 650,
+    "estado": "Stock",
+    "cant_comprado": 34
+  },
+  {
+    "id": 11,
+    "product_name": "Pizza Pepperoni",
+    "category": "pizza",
+    "description": "Pizza con pepperoni, queso y salsa de tomate.",
+    "price": 11.99,
+    "calory": 750,
+    "estado": "Stock",
+    "cant_comprado": 56
+  },
+  {
+    "id": 12,
+    "product_name": "Empanadas de Pollo",
+    "category": "empanadas",
+    "description": "Empanadas rellenas de pollo desmenuzado.",
+    "price": 9.99,
+    "calory": 500,
+    "estado": "Sin Stock",
+    "cant_comprado": 23
+  },
+  {
+    "id": 13,
+    "product_name": "Sandwich de Jamón y Queso",
+    "category": "sandwich",
+    "description": "Sandwich clásico con jamón, queso suizo y mostaza.",
+    "price": 8.99,
+    "calory": 400,
+    "estado": "Stock",
+    "cant_comprado": 87
+  },
+  {
+    "id": 14,
+    "product_name": "Hamburguesa Picante",
+    "category": "hamburguesa",
+    "description": "Hamburguesa con queso picante, jalapeños y salsa picante.",
+    "price": 12.99,
+    "calory": 600,
+    "estado": "Sin Stock",
+    "cant_comprado": 45
+  },
+  {
+    "id": 15,
+    "product_name": "Pizza Vegetariana",
+    "category": "pizza",
+    "description": "Pizza con vegetales frescos y queso mozzarella.",
+    "price": 10.99,
+    "calory": 500,
+    "estado": "Stock",
+    "cant_comprado": 68
+  }
+]
